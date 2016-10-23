@@ -10,6 +10,7 @@ Input                      | Output
 
 #### Some failure cases
 * When the shots start facing the field at a low angle, it almost becomes a forward view which makes it hard to distinguish the banners around the field from the players that are in front of the banners. Other issues are if the players are too small then they are not captured.
+
 Input                      | Output
 :-------------------------:|:-------------------------:
 ![](soccer_6.png)          |  ![](outputs/out_soccer_6.png)
